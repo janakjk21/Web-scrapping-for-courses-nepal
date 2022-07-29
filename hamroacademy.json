@@ -1,0 +1,236 @@
+[
+	{
+		"name": "2 Courses layers",
+		"title": "BBS First Year Combo - Accounts & Statistics",
+		"price": "Rs2999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/628b34130cf210bc5493a6b6/628b34130cf210bc5493a6b6_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/bbs-first-year-accounts",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Ranjeet Devkota",
+		"title": "BBS First Year - Accounts",
+		"price": "Rs2999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/628b3c2e0cf2834fe5723072/628b3c2e0cf2834fe5723072_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/bbs-first-year-statistics",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Abhishek Panthi",
+		"title": "BBS First year - Statistics",
+		"price": "Free",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/620b42990cf28ca0958b20c7/620b42990cf28ca0958b20c7_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/free-revision-Classes-bbs-First-year",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Arun Aryal",
+		"title": "CA CAP III Advanced Financial Management",
+		"price": "Rs25000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5fe2f1e10cf2132a99555e26/5fe2f1e10cf2132a99555e26_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/ca-cap-iii-advanced-financial-management",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Hamro Academy",
+		"title": "CAP I Accounts",
+		"price": "Rs12000  Rs10000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6035fed10cf2cdf4f78644b7/6035fed10cf2cdf4f78644b7_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-i-accounts",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Megh Raj Aryal",
+		"title": "CA CAP III Costing",
+		"price": "Rs25000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5ec6207d0cf2e5c061cc0fd2/5ec6207d0cf2e5c061cc0fd2_scaled_cover.jpg?v=8",
+		"link": "www.hamroacademy.com/s/store/courses/description/ca-cap-iii-costing",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Mukul Bhatt, CA MANISH ADHIKARI",
+		"title": "CAP II Tax",
+		"price": "Rs18000  Rs15000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f43d1a70cf2a804a1880671/5f43d1a70cf2a804a1880671_scaled_cover.jpg?v=3",
+		"link": "www.hamroacademy.com/s/store/courses/description/CAP-II-Tax",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Hamro Academy",
+		"title": "CA CAP II All Subjects Free Demo Course",
+		"price": "Free",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/603093f30cf2c061ee246051/603093f30cf2c061ee246051_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-ii-all-subjects-demo-course",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Arun Babu Ghimire, CA Kamal Sharma, CA Sabin Karki",
+		"title": "CAP II Advanced Accounting",
+		"price": "Rs20000  Rs16000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5fd9e2b50cf2680979870c49/5fd9e2b50cf2680979870c49_scaled_cover.jpg?v=4",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-ii-advanced-accounting",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Sunil Joshi",
+		"title": "CAP III Advanced Auditing",
+		"price": "Rs15000  Rs12000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/60e155110cf2342285eda5c0/60e155110cf2342285eda5c0_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-iii-advanced-auditing",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Hamro Academy",
+		"title": "CAP I Free Demo Class",
+		"price": "Free",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6123405c0cf2396f2e755c5c/6123405c0cf2396f2e755c5c_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-i-free-demo-class",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "3 Courses layers",
+		"title": "CAP III Combo (3 Subjects)",
+		"price": "Free",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/62b011750cf2f53c32d4d73d/62b011750cf2f53c32d4d73d_scaled_cover.jpg?v=2",
+		"link": "www.hamroacademy.com/s/store/courses/description/online-ca-class-in-nepal",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Mukul Bhatt",
+		"title": "Basic of Accounts for CAP I",
+		"price": "Rs12000  Rs10000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5fe1ade40cf2af991939e619/5fe1ade40cf2af991939e619_scaled_cover.jpg?v=3",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-ii-audit-full-course",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Sunil Joshi",
+		"title": "CAP II Audit Full Course",
+		"price": "Rs20000  Rs16000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5ed35ceb0cf2a57a78824080/5ed35ceb0cf2a57a78824080_scaled_cover.jpg?v=4",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-ii-finance",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "CA Arun Aryal",
+		"title": "CAP II Finance",
+		"price": "Rs8000  Rs6000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/612348eb0cf25e3afaecca05/612348eb0cf25e3afaecca05_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-i-mercantile-law",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Hamro Academy",
+		"title": "CAP I Mercantile Law",
+		"price": "Rs8000  Rs6000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6123494f0cf2fa995268a4af/6123494f0cf2fa995268a4af_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-i-fundamentals-of-management-fom",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Hamro Academy",
+		"title": "CAP I Fundamentals of Management (FOM)",
+		"price": "Rs12000  Rs10000",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f61c0030cf2ab951b2dfa41/5f61c0030cf2ab951b2dfa41_scaled_cover.jpg?v=5",
+		"link": "www.hamroacademy.com/s/store/courses/description/cap-ii-corporate-law",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Multiple teachers",
+		"title": "Grade XII Free Demo",
+		"price": "Free",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f26a89c0cf289dacf307ba6/5f26a89c0cf289dacf307ba6_scaled_cover.jpg?v=3",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-free-demo",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Chiranjibi Ghimire & Maheshor Paudel",
+		"title": "Grade XII Chemistry (NEB new syllabus)",
+		"price": "Rs1999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/605a04690cf227ee88ed30a1/605a04690cf227ee88ed30a1_scaled_cover.jpg?v=3",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-chemistry",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Kishor Chalise, Jayaram Subedi, Lila Prasad Bagale",
+		"title": "Grade XII Basic Maths (NEB new syllabus)",
+		"price": "Rs1999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/605a04540cf227ee88ed309f/605a04540cf227ee88ed309f_scaled_cover.jpg?v=3",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-basic-math",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Sanat Kumar Giri, Bashistha Chaudhary, Ram Tiwari",
+		"title": "Grade XII Physics (NEB New Syllabus)",
+		"price": "Rs1999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6059d3fa0cf2a5abe8bb47ad/6059d3fa0cf2a5abe8bb47ad_scaled_cover.jpg?v=4",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-physics",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Indra Bdr. Bohara (Prakash Sir)",
+		"title": "Grade XII Accounts (NEB new syllabus)",
+		"price": "Rs1999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6215d6960cf219521ad69296/6215d6960cf219521ad69296_scaled_cover.jpg?v=4",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-accounts",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Chiranjibi Ghimire & Maheshor Paudel",
+		"title": "Grade XII Chemistry (NEB new syllabus) (1year Validity)",
+		"price": "Rs3999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/627b4cb80cf27e9d66d0550a/627b4cb80cf27e9d66d0550a_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-chemistry-neb-new-syllabus-1year-Validity",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Kishor Chalise, Jayaram Subedi, Lila Prasad Bagale",
+		"title": "Grade XII Basic Maths (NEB new syllabus) (1 year validity)",
+		"price": "Rs3999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/627b4d4f0cf2fee13879968d/627b4d4f0cf2fee13879968d_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-basic-maths-neb-new-syllabus-1-year-validity",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Sanat Kumar Giri, Bashistha Chaudhary, Ram Tiwari",
+		"title": "Grade XII Physics (NEB New Syllabus) (1year Validity)",
+		"price": "Rs3999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/627b4da90cf2cf6d6b6ecbe4/627b4da90cf2cf6d6b6ecbe4_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xII-physics-neb-new-syllabus-1year-validity",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	},
+	{
+		"name": "Indra Bdr. Bohara (Prakash Sir)",
+		"title": "Grade XII Accounts (NEB new syllabus) (1year Validity)",
+		"price": "Rs3999",
+		"img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/627b50ca0cf21ee5d846d4d3/627b50ca0cf21ee5d846d4d3_scaled_cover.jpg?v=1",
+		"link": "www.hamroacademy.com/s/store/courses/description/grade-xii-accounts-neb-new-syllabus-1year-Validity",
+		"categories": "BBS",
+		"company": "hamroacademy"
+	}
+]
